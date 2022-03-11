@@ -43,5 +43,6 @@ return "Not possible to compare these objects";
 }
 console.log(compare(obj1,obj2));
 
-// OUTPUT:
+// OUTPUT:true
+
 
